@@ -1,7 +1,7 @@
 # Debug inputs
 #       application_folder: "TestForDevHUBImportFlow"
 #              application: "TestForDevHUBImportFlow.application"
-#               bw6_system: "TestingImportFlows"
+#               bw6_system: "TestingImportFlowsSystem"
 #         bw6_project_name: "TestForDevHUBImportFlow"
 #  bw6_project_description: ""
 #     bw6_project_manifest: ["Manifest-Version: 1.0","Manifest-Version: 1.0",""]
@@ -24,4 +24,4 @@ spec:
     type: bw-6-project
     lifecycle: production
     owner: group:default/marketplace-entries-group
-    system: TestingImportFlows
+    system: TestingImportFlowsSystem
